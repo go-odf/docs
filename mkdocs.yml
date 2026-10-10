@@ -1,5 +1,5 @@
 site_name: go-odf docs
-site_description: "OpenDocument Text, in and out of the richdoc model."
+site_description: "OpenDocument text, spreadsheets, presentations and drawings, in and out of the richdoc model."
 site_url: https://go-odf.github.io/docs/
 repo_url: https://github.com/go-odf
 repo_name: go-odf

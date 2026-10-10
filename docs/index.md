@@ -1,6 +1,6 @@
 # go-odf
 
-OpenDocument Text, in and out of the richdoc model.
+Every OpenDocument body, in and out of the richdoc model.
 
 Part of the **Documents, typesetting & fonts** family of the
 [pure-Go ecosystem](https://go-desktop.github.io/) — 1 module,
